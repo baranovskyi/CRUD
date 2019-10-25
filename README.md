@@ -2,7 +2,7 @@
 # Client part
 ## 1. git clone https://github.com/baranovskyi/CRUD
 
-## 1. cd crud
+## 1. cd crud (angular project)
 ## 2. npm install
 ## 3. ng serve -o
 ## Server part 
